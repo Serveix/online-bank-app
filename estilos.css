@@ -1,0 +1,49 @@
+body {
+    background-color: #ffffff;
+    font-family: 'Nunito', sans-serif;
+}
+
+.navbar {
+    background-color: #ffffff;
+    color: #000000;
+    box-shadow: 0 1px 3px rgba(112, 112, 112, 0.12), 0 1px 2px rgba(112, 112, 112, 0.12);
+}
+.card {
+    box-shadow: 0 1px 3px rgba(112, 112, 112, 0.12), 0 1px 2px rgba(112, 112, 112, 0.12);
+}
+.card-gradient {
+    box-shadow: 0 1px 3px rgba(112, 112, 112, 0.12), 0 1px 2px rgba(112, 112, 112, 0.12);
+    background: #00c6ff;
+    background: -webkit-linear-gradient(to right, #0072ff, #00c6ff);
+    background: linear-gradient(to right, #0072ff, #00c6ff);
+    border-color: transparent;
+    color: #ffffff;
+}
+
+.logo {
+    font-family: 'Righteous', cursive;
+}
+
+.btn-login {
+    width: 100%;
+    font-weight: bold;
+    background: #00c6ff;
+    background: -webkit-linear-gradient(to right, #0072ff, #00c6ff);
+    background: linear-gradient(to right, #0072ff, #00c6ff);
+    border-color: transparent;
+}
+.blue-gradient {
+    background: #00c6ff;
+    background: -webkit-linear-gradient(to right, #0072ff, #00c6ff);
+    background: linear-gradient(to right, #0072ff, #00c6ff);
+}
+.form-group label {
+    font-weight: bold;
+}
+.h2-blue {
+    font-weight: bold;
+    color: #0072ff;
+}
+.h4-bold {
+    font-weight: bold;
+}
